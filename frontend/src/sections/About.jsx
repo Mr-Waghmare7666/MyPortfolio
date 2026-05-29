@@ -36,7 +36,7 @@ export default function About() {
         >
           <div className="relative aspect-[4/5] w-full overflow-hidden sm:aspect-[5/4]">
             <img
-              src="/profile2.png"
+              src="/profile1.png"
               alt="Omkar Rajkumar Waghmare"
               onError={(event) => {
                 event.currentTarget.src =

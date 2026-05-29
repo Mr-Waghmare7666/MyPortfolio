@@ -58,7 +58,7 @@ export default function Hero() {
           <div className="glass relative overflow-hidden rounded-[2rem] border border-[var(--stroke)] p-2 shadow-aura">
             <div className="h-[380px] overflow-hidden rounded-[1.5rem] bg-gradient-to-br from-[#0B1735] via-[#12254E] to-[#0A1227] sm:h-[460px]">
               <img
-                src="/profile1.png"
+                src="/profile2.png"
                 alt="Omkar Rajkumar Waghmare"
                 className="h-full w-full object-cover object-[center_20%]"
               />
